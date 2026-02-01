@@ -36,10 +36,10 @@ def Intro():
 ⠀⠀⠈⠙⠛⠛⠛⠛⠛⠛⠛⠉⠁⠀⠀⠀⠀⠈⠉⠛⠛⠛⠛⠛⠛⠛⠋⠁⠀⠀
           {Colors.RESET}
           - SMSend -
-         {Colors.BLUE} By Sytaxus / cmdSNR {Colors.RESET}
+         {Colors.BLUE} By cmdSNR {Colors.RESET}
     Instructions: This tool may contain some {Colors.RED} limitations{Colors.RESET}.
-    - In regards to questions, open an issue in the github repo
-    - Check the https://github.com/x86senniral/SMSend-Anon-SMS-Sender/ , for full documentation if stuck.
+    - In regards to questions, open an issue in the github repo.
+    - Check the https://github.com/cmdsnr/SMSend-Anon-SMS-Sender/ , for full documentation if stuck.
 """)
     
 def cls_scrn():
