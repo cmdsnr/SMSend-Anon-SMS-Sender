@@ -51,13 +51,12 @@ cd SMSend-Anon-SMS-Sender && chmod +x setup.sh && ./setup.sh
 - Final step, when asked for the vpn credential file name, simply put `auth.txt`, and that's it!
 - NOTE: **Do NOT touch the vpn_auth.txt, that file is already preconfigured**
 
-## Contributions
-Updates and contributions are welcome, simply perform a pull request.
-
-
 ## Restrictions
 - No Links allowed within SMS.
 - You cannot send a message to the **same** phone number twice in less than a 24 hours (Yes, even when using a vpn). 
+- Some regions may be blocked
+
+## Project Now Archived
 
 ## Disclaimer
 Do not use SMSend to harm others. The creator of this tool does not take any responsibility for any damage caused by SMSend.
